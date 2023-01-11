@@ -1,6 +1,4 @@
 /**
-Name: Zaeem 
-Date: 10/15/22
 File: carDealership.c
 Description: This program is a rental car service backend.
 */
